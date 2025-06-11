@@ -1,6 +1,6 @@
 ![small-hand](https://github.com/user-attachments/assets/5a715349-5ae4-4f0e-8f05-ee0287241da9)
 
-# Old-Launchpad
+# Old MacOS Launchpad
 Old Launchpad is a vibe-coded standalone, SwiftUI-based replacement for macOS Launchpad.
 It mimics the grid layout and folder behaviour of the original:
 
