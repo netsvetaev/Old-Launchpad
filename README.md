@@ -29,6 +29,9 @@ Dismiss
 Persistence
 Layout stored in ~/Library/Application Support/Dock/launchpad_layout.json (separate from Apple’s DB).
 
+# Screenshot
+![Screenshot 2025-06-11 at 2 43 29 AM](https://github.com/user-attachments/assets/cb871d10-252a-44a6-87f7-6a96d0b60190)
+
 # Build & Run
 Requires Xcode 15+, macOS 13 Ventura or newer.
 
