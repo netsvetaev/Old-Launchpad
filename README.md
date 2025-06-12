@@ -52,7 +52,7 @@ If you want a corner to open Old Launchpad, use BetterTouchTool / Raycast to map
 I don't know. Maybe iCloud sync & various settings?
 
 # License
-MIT — see LICENSE.
+BSD-3-Clause.
 
 # Author
 My name is Art Netsvetaev. I'm designer, product manager & entrepreneur.
